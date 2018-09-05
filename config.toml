@@ -1,0 +1,14 @@
+baseURL = "https://jespersopskrifter.dk/"
+
+languageCode = "da-dk"
+title = "Jespers Opskrifter"
+theme = "one"
+googleAnalytics = ""
+
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsStyle = "pygments"
+
+[params]
+navigation = ["About.md", "links.md", "Glutenfriol.md"]
+style = ""
