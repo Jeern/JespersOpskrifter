@@ -31,10 +31,10 @@ draft: true
 
 # Fremgangsmåde:
 
-	Varm bouillonen op
-	Svits tynde skiver hvidløg. Tag hvidløget op.
-	Svits ris og hakket løg i 5 minutter.
-	Tilsæt vin, salt og peber og kog i et minuts tid. Rør konstant.
-	Tilsæt bouillonen lidt ad gangen. Vent til det er absorberet før der tilsættes mere.
-	Fjern gryden fra blusset. Tilsæt hvidløg og hakket rucola.
-	Server med parmesan.
+* Varm bouillonen op
+* Svits tynde skiver hvidløg. Tag hvidløget op.
+* Svits ris og hakket løg i 5 minutter.
+* Tilsæt vin, salt og peber og kog i et minuts tid. Rør konstant.
+* Tilsæt bouillonen lidt ad gangen. Vent til det er absorberet før der tilsættes mere.
+* Fjern gryden fra blusset. Tilsæt hvidløg og hakket rucola.
+* Server med parmesan.

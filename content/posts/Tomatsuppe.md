@@ -22,11 +22,12 @@ Original fra: [Spise med price - Papa al pomodoro] (http://www.dr.dk/Mad/opskrif
 
 # Fremgangsmåde:
 
-	I en gryde ristes røget chipotle og hvidløgsfed i olivenolie til hvidløgene lige akkurat begynder at 
-	tage farve. Hak tomaterne groft og kom dem i gryden sammen med de flåede tomater og hvidvinen. 
-	Lad det simre under låg i ca. 20 minutter. 
-	Tilsæt op til 1/4 liter grønsagsboullion.
-	Purer med en stavblender. Smag til med salt, peber og sukker og lad suppen koge igennem. 
-	Basilikum strimles, og brød skæres i tern og kommes i suppen. 
-	Rør brødet ind i suppen til konsistensen minder om en risotto. 
-	Serveres med revet parmesan.
+* I en gryde ristes røget chipotle og hvidløgsfed i olivenolie til hvidløgene lige akkurat begynder at tage farve. 
+* Hak tomaterne groft og kom dem i gryden sammen med de flåede tomater og hvidvinen. 
+* Lad det simre under låg i ca. 20 minutter. 
+* Tilsæt op til 1/4 liter grønsagsboullion.
+* Purer med en stavblender. 
+* Smag til med salt, peber og sukker og lad suppen koge igennem. 
+* Basilikum strimles, og brød skæres i tern og kommes i suppen. 
+* Rør brødet ind i suppen til konsistensen minder om en risotto. 
+* Serveres med revet parmesan.

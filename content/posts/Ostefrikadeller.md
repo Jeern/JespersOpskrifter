@@ -18,6 +18,6 @@ draft: true
 # Fremgangsmåde:
 
 
-	Læg grynene i blød i mælk i 15 min. Brug netop så meget mælk at det suges op. 
-	Bland resten i massen og rør. 
-	Steges i olie ved god varme til de er sprøde.
+* Læg grynene i blød i mælk i 15 min. Brug netop så meget mælk at det suges op. 
+* Bland resten i massen og rør. 
+* Steges i olie ved god varme til de er sprøde.

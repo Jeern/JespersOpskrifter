@@ -12,6 +12,6 @@ draft: true
 
 # Fremgangsmåde:
 
-	I en gryde eller Wok opvarmes olien (et par millimeter) til høj temperatur sammen med hvidløgsfedene.
-	Brocolli renses, og deles i små buketter. Benyt også stokken.
-	Skru lidt ned for varmen, men ikke meget. Tilsæt Brocolli og masser af salt, og steg i ca. 10 minutter 	under låg.
+* I en gryde eller Wok opvarmes olien (et par millimeter) til høj temperatur sammen med hvidløgsfedene.
+* Brocolli renses, og deles i små buketter. Benyt også stokken.
+* Skru lidt ned for varmen, men ikke meget. Tilsæt Brocolli og masser af salt, og steg i ca. 10 minutter under låg.

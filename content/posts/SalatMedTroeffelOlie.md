@@ -18,8 +18,8 @@ draft: true
 
 # Fremgangsmåde:
 
-	Pensl 2 skiver toastbrød med olivenolie. Rist. Skær i tern.
-	Solsikkekerner ristes på en tør pande.
-	Skær salaten i tynde strimler. 
-	Resten af grøntsagerne skæres i små stykker, og de blandes med trøffelolien. Kun kød fra tomat bruges.
-	Tilsidst spredes brødstykkerne henover.
+* Pensl 2 skiver toastbrød med olivenolie. Rist. Skær i tern.
+* Solsikkekerner ristes på en tør pande.
+* Skær salaten i tynde strimler. 
+* Resten af grøntsagerne skæres i små stykker, og de blandes med trøffelolien. Kun kød fra tomat bruges.
+* Tilsidst spredes brødstykkerne henover.

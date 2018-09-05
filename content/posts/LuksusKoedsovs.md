@@ -21,10 +21,10 @@ draft: true
 
 # Fremgangsmåde:
 
-	Blend løg og blegselleri
-	Steg i olie
-	Tilsæt karry, paprika, chili og skiveskåret bacon
-	Tilsæt balsamico
-	Steg kødet og bland med resten
-	Tilsæt flåede tomater
-	Smag til m. sukker, salt og peber		
+* Blend løg og blegselleri
+* Steg i olie
+* Tilsæt karry, paprika, chili og skiveskåret bacon
+* Tilsæt balsamico
+* Steg kødet og bland med resten
+* Tilsæt flåede tomater
+* Smag til m. sukker, salt og peber		

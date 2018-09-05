@@ -31,10 +31,8 @@ draft: true
 
 # Fremgangsmåde:
 
-	Hak hvidløg. Rist sennepskorn i gryden, efterfulgt af bukkehornsfrø efterfulgt af hvidløg, gurkemeje, 	koriander og spidskommen. Tilsæt nu saft fra Lime. Tilsæt så Samba Olek og hvid balsamico. Når det er dampet lidt af tilsættes kokosmælk.
-	Den grønne peber skæres i tern og blomkål laves i små "blomster" begge dele tilsættes. Nu skal det koge 	i ½ times tid. Der bør tilsættes noget kød eller nogle bønner. Enten fisk (laks eller torsk) el. Lam, 	el. eksempelvis kidney bønner. Hvis der vælges kød skal det brunes sammen med krydderierne i starten.
-	Udover de andre krydderier kan man også tilsætte ingefær det giver en mere spids smag.
-	Som alternativ el. supplement til blomkål kan man tilsætte en bagekartoffel skåret i tern.
-	Hvis man har lyst kan man give retten en smuk orange farve ved at blende 4-5 tomater og tilsætte.
-	Bør serveres med ris (basmati) og noget sødt eksempelvis æblegelé.
+* Hak hvidløg. Rist sennepskorn i gryden, efterfulgt af bukkehornsfrø efterfulgt af hvidløg, gurkemeje, 	koriander og spidskommen. Tilsæt nu saft fra Lime. Tilsæt så Samba Olek og hvid balsamico. Når det er dampet lidt af tilsættes kokosmælk.
+* Den grønne peber skæres i tern og blomkål laves i små "blomster" begge dele tilsættes. Nu skal det koge 	i ½ times tid. Der bør tilsættes noget kød eller nogle bønner. Enten fisk (laks eller torsk) el. Lam, 	el. eksempelvis kidney bønner. Hvis der vælges kød skal det brunes sammen med krydderierne i starten.
+
+Udover de andre krydderier kan man også tilsætte ingefær det giver en mere spids smag. Som alternativ el. supplement til blomkål kan man tilsætte en bagekartoffel skåret i tern. Hvis man har lyst kan man give retten en smuk orange farve ved at blende 4-5 tomater og tilsætte.	Bør serveres med ris (basmati) og noget sødt eksempelvis æblegelé.
 

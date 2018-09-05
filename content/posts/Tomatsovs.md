@@ -17,8 +17,8 @@ draft: true
 
 # Fremgangsmåde:
 
-	Svits hvidløg i olie
-	Tilsæt og svits tomatpúre + Samba Oelek
-	Tilsæt Balsamico og kog let ned
-	Tilsæt resten. Pas på det ikke er for varmt så fløden skiller. Rør derfor godt.
+* Svits hvidløg i olie
+* Tilsæt og svits tomatpúre + Samba Oelek
+* Tilsæt Balsamico og kog let ned
+* Tilsæt resten. Pas på det ikke er for varmt så fløden skiller. Rør derfor godt.
 	

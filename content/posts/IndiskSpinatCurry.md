@@ -17,10 +17,10 @@ draft: true
 
 # Fremgangsmåde:
 
-	Skær Osten i passende skive og rist på pande i Olie
-	Blend Løg + Hvidløg
-	Steg Løg/Hvidløg + Krydderier
-	Tilsæt spinat og steg videre
-	Tilsæt i de sidste par minutter osten
-	Server med Ris
+* Skær Osten i passende skive og rist på pande i Olie
+* Blend Løg + Hvidløg
+* Steg Løg/Hvidløg + Krydderier
+* Tilsæt spinat og steg videre
+* Tilsæt i de sidste par minutter osten
+* Server med Ris
 

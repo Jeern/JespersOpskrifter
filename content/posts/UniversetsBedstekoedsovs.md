@@ -22,9 +22,9 @@ draft: true
 
 # Fremgangsmåde:
 
-	Blend hvidløg, rød peber, Blegselleri og Ansjoser
-	Steg i olie
-	Tilsæt karry, paprika, chili og tomat púre
-	Tilsæt balsamico
-	Steg kødet og bland med resten
-	Smag til m. sukker, salt og peber		
+* Blend hvidløg, rød peber, Blegselleri og Ansjoser
+* Steg i olie
+* Tilsæt karry, paprika, chili og tomat púre
+* Tilsæt balsamico
+* Steg kødet og bland med resten
+* Smag til m. sukker, salt og peber		

@@ -17,12 +17,11 @@ draft: true
 
 # Fremgangsmåde:
 
-	Dejen skal være klistret og blød. Røres sammen og fordeles på to stykker bagepapir i bagepladestørrelse. 
-	Hav et ekstra stykke bagepapir, læg det ovenpå dejen, og tryk, massér og til sidst rul dejen flad, helt tynd og jævn, passer ca. med bagepladen. 
-	Forskær dejen i den ønskede knækbrødsstørrelse. 
-	Begge plader sættes i varm oven 210 grader. 
-	Bages ca. 10-12-15 minutter helt afhængig af dejkonsistens og udrulningstykkelse. 
-	Når den er brun i kanten er den færdig.
-	Lægges på rist og køler af. 
-	Det sker ofte, at de midterste 4 stykker ikke er helt færdige, tag i så fald bare de yderste stykker af.
-
+*Dejen skal være klistret og blød. Røres sammen og fordeles på to stykker bagepapir i bagepladestørrelse. 
+Tag et ekstra stykke bagepapir, læg det ovenpå dejen, og tryk, massér og til sidst rul dejen flad, helt tynd og jævn, passer ca. med bagepladen. 
+Forskær dejen i den ønskede knækbrødsstørrelse. 
+Begge plader sættes i varm oven 210 grader. 
+Bages ca. 10-12-15 minutter helt afhængig af dejkonsistens og udrulningstykkelse. 
+Når den er brun i kanten er den færdig.
+Lægges på rist og køler af. 
+Det sker ofte, at de midterste 4 stykker ikke er helt færdige, tag i så fald bare de yderste stykker af.

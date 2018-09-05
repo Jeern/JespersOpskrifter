@@ -30,7 +30,7 @@ draft: true
 * Fjern Laurbærblade og nellikker.
 * Blend suppen med stavblender.
 * Tilsæt reven gulerod eller persillerod og kog nogle minutter.
-* Smag til med salt og evt. en dråbe chili.
+* Smag til med salt og evt. en dråbe chilisauce.
 
 Topping: Æble i tern og ristet kokosmel.
 
