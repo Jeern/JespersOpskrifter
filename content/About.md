@@ -1,6 +1,6 @@
 ﻿---
 title: "Om"
-date: 2018-09-04T23:01:40+02:00
+date: 2018-09-05T20:56:00+02:00
 draft: true
 ---
 Dette er et site med opskrifter jeg bruger til daglig. Nogle opskrifter er helt mit eget påfund. Andre stammer andre steder fra, men jeg har måske ændret dem lidt efter egen smag. I så fald har jeg linket til den originale opskrift hvis jeg har kunnet finde den.
