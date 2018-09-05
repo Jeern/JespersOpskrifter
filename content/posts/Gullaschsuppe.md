@@ -22,9 +22,9 @@ draft: true
 
 # Fremgangsmåde:
 
-	Svits løgringe og peberfrugt
-	Tag op. Svits hvidløg og kød (el. bønner som er forkogt osv.)
-	Tilsæt paprika
-	Tilsæt flåede tomater + resten
-	Kog lang tid
-	Skær gulerødder og kartofler i terninger og tilsæt i 20 minutter
+* Svits løgringe og peberfrugt
+* Tag op. Svits hvidløg og kød (el. bønner som er forkogt osv.)
+* Tilsæt paprika
+* Tilsæt flåede tomater + resten
+* Kog lang tid
+* Skær gulerødder og kartofler i terninger og tilsæt i 20 minutter
