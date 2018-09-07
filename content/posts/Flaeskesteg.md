@@ -1,7 +1,7 @@
 ﻿---
 title: "Flæskesteg"
-date: 2018-09-04T23:01:40+02:00
-draft: true
+date: 2018-09-07T17:22:00+02:00
+draft: false
 ---
 # Ingredienser:
 
@@ -26,3 +26,10 @@ draft: true
 * Tilbage i ovn. Denne gang midterste rille, max. temperatur, varmluft. ca. 15 minutter.
 * Til sidst øverste rille, på grill ca. 1-10 minutter. Afhængig af grill styrken. 5 minutter på vores ovn.
 
+# Historie
+
+Denne opskrift laver jeg 2 gange om året. Juleaften og den årlige julefrokost. Den giver (næsten) altid sprøde svær.
+
+Pga. vegetarerne i selskabet laver jeg normalt aldrig sovs af skyen, men det kan man naturligvis gøre hvis man foretrækker allestedsværende kødsmag overalt :) Personligt foretrækker jeg også selv en lettere sovs.
+
+Den originale opskrift ligger på http://flaeskesteg.dk/ - den er dd. ikke tilgængelig. 

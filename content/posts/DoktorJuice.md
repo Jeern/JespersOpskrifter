@@ -1,10 +1,8 @@
 ﻿---
 title: "Doktor Juice"
-date: 2018-09-04T23:01:40+02:00
-draft: true
+date: 2018-09-07T17:20:00+02:00
+draft: false
 ---
-# Doktor Juice
-
 # Ingredienser:
 
 
@@ -18,4 +16,10 @@ draft: true
 
 # Fremgangsmåde:
 
-Rens det der skal renses. Kør det hele igennem saftpresser.
+Rens det der skal renses. Kør det hele igennem en "Juicer". Selv citronen kan køre igennem med skal og det hele. Hvis man erstatter citronen med en appelsin skal den pilles.
+
+# Historie
+
+Så vidt jeg husker kommer denne opskrift fra vejledningen til min Philips Juicer. Er den sund. Ja, det tror jeg nok den er.
+
+
