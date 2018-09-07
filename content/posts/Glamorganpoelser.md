@@ -3,9 +3,6 @@ title: "Glamorgan pølser (vegetariske)"
 date: 2018-09-07T21:33:00+02:00
 draft: false
 ---
-original opskrift her: [Glamorgan sausages](http://www.bbc.co.uk/food/recipes/glamorgan_sausages_with_64911)
-(til 4 personer:)
- 
 # Ingredienser:
 
 
@@ -47,4 +44,4 @@ original opskrift her: [Glamorgan sausages](http://www.bbc.co.uk/food/recipes/gl
 
 # Historie
 
-Jeg så oprindeligt denne opskrift i det engelske BBC show der hedder Hairy Bikers.
+Jeg så oprindeligt denne opskrift i det engelske BBC show der hedder Hairy Bikers. Den originale opskrift er her: [Glamorgan sausages](http://www.bbc.co.uk/food/recipes/glamorgan_sausages_with_64911)

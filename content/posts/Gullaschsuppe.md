@@ -31,4 +31,4 @@ draft: false
 
 # Historie
 
-En af mine ældste opskrifter. Har lavet den siden slut 90'erne. Den vigtigste ingrediens er kommen og det er MEGET vigtigt at dosere kommen rigtigt bare den dobbelte mængde vil ødelægge retten, men i den rette dosis giver det et helt fantastisk pift.
+En af mine ældste opskrifter. Har lavet den siden slut 90'erne. Den vigtigste ingrediens er kommen og det er MEGET vigtigt at dosere kommen rigtigt - bare den dobbelte mængde vil ødelægge retten, men i den rette dosis giver det et helt fantastisk pift.
