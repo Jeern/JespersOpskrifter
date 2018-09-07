@@ -1,9 +1,9 @@
 ﻿---
 title: "Glamorgan pølser (vegetariske)"
-date: 2018-09-04T23:01:40+02:00
-draft: true
+date: 2018-09-07T21:33:00+02:00
+draft: false
 ---
-original opskrift her: [Glamorgan sausages] (http://www.bbc.co.uk/food/recipes/glamorgan_sausages_with_64911)
+original opskrift her: [Glamorgan sausages](http://www.bbc.co.uk/food/recipes/glamorgan_sausages_with_64911)
 (til 4 personer:)
  
 # Ingredienser:
@@ -11,11 +11,11 @@ original opskrift her: [Glamorgan sausages] (http://www.bbc.co.uk/food/recipes/g
 
 	30g smør
 	150g porre
-	200g Glutenfri rasp
-	Persille (vælg f.eks hvidløg hvis det skal gemmes til dagen efter)
+	200g Glutenfri rasp (køb f.eks i Rema eller brug egne brødrester)
+	Persille (Men vælg f.eks hvidløg hvis resterne skal gemmes)
 	Timian (vælg også gerne tørret)
 	300g Cheddar ost
-	3 Store økoæg - delt i blommet og hvide
+	3 Store økoæg - delt i blomme og hvide
 	2 tsk sennep
 	Salt
 	Olie
@@ -23,9 +23,9 @@ original opskrift her: [Glamorgan sausages] (http://www.bbc.co.uk/food/recipes/g
 
 # Fremgangsmåde:
 
-* Smelt smørret i en stor non-stick stegepande og steg porren forsigtigt i 8-10 minutter, eller indtil blød, men ikke farvet.
+* Smelt smørret i en stor non-stick stegepande og steg porren forsigtigt i 8-10 minutter, eller indtil den er blød, men ikke farvet.
 
-* Bland 100g rasp, persille, timian og osti en stor skål og bland godt. 
+* Bland 100g rasp, persille, timian og ost i en stor skål og bland godt. 
 
 * Pisk æggeblommer med sennep, salt og masser af friskkværnet sort peber i en separat skål. 
 
@@ -44,3 +44,7 @@ original opskrift her: [Glamorgan sausages] (http://www.bbc.co.uk/food/recipes/g
 * Køl af i køleskab i 30 minutter inden stegning.
 
 * Steges i 10-12 minutter.
+
+# Historie
+
+Jeg så oprindeligt denne opskrift i det engelske BBC show der hedder Hairy Bikers.
