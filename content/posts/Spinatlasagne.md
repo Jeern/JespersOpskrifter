@@ -1,7 +1,7 @@
 ﻿---
 title: "Spinatlasagne (ca. 4 personer)"
-date: 2018-09-04T23:01:40+02:00
-draft: true
+date: 2018-09-08T12:39:00+02:00
+draft: false
 ---
 # Ingredienser:
 
@@ -42,4 +42,4 @@ Smelt smør. Tilsæt passende mængde mel. Opbag med mælk. Tilsæt muskat, og b
 ## Lasagne
 Smør fad med Olie. Derefter lidt bechamel sov. Lav nu lag: Plader, Tomatsovs, spinat, bechamel sovs. Tilsidst et lag plader efterfulgt af bechamel sovs.
 
-Tilberedning ½ time i ovn ved 200 grader. De sidste 10 minutter gratineres med parmesan ost eller 	lignende.
+Tilberedning ½ time i ovn ved 200 grader. De sidste 10 minutter gratineres med parmesan ost eller lignende.
