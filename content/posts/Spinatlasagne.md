@@ -20,9 +20,11 @@ draft: false
 	Salt
 	2 spsk Olivenolie
 
-	Mel
+	Maizena
 	Mælk el. kaffefløde
 	ca. 2 tsk stødt muskat
+	Salt
+	Peber
 
 	Lasagneplader (glutenfri) + olie
 
@@ -31,13 +33,13 @@ draft: false
 
 ## Spinat
 Opvarm spinat i mikrobølgeovn 3x3 minutter. Efter hver 3. minut tilsættes salt. Mere end man skulle tro.
-Tilsidst sies vandet fra
+Tilsidst sies vandet fra. Ved 900w ovn bør man nøjes med 3x2 minutter.
 
 ## Tomatsovs
 Skær hvidløg og løg i bittesmå stykker. Steg dem i olie. Tilsæt paprika og evt. lidt chili. Retten må (desværre) ikke være stærk det passer dårligt til den. Tilsæt balsamico og lad koge lidt af. Tilsæt nu hakkede tomater, basilikum, grønsagsboullion terning, sukker. Bring i kog. Tilsæt salt efter behag.
 
 ## Bechamel sovs
-Smelt smør. Tilsæt passende mængde mel. Opbag med mælk. Tilsæt muskat, og bring i kog.
+Bring Kaffefløde + krydderier tæt på kogepunktet. Tilsæt passende mængde Maizena.
 
 ## Lasagne
 Smør fad med Olie. Derefter lidt bechamel sov. Lav nu lag: Plader, Tomatsovs, spinat, bechamel sovs. Tilsidst et lag plader efterfulgt af bechamel sovs.
