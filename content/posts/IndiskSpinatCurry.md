@@ -1,7 +1,7 @@
 ﻿---
 title: "Indisk Spinat Curry"
-date: 2018-09-04T23:01:40+02:00
-draft: true
+date: 2018-09-08T12:22:00+02:00
+draft: false
 ---
 # Ingredienser:
 
@@ -14,13 +14,21 @@ draft: true
 	1 tsk Ingefær pulver
 	1-2 tsk Koriander
 	1-2 tsk Chilipulver
+	salt efter behov
+	Evt. Cashew nødder
 
 # Fremgangsmåde:
 
-* Skær Osten i passende skive og rist på pande i Olie
+* Skær Osten i passende skive og rist på slip-let pande (tørsteg)
 * Blend Løg + Hvidløg
 * Steg Løg/Hvidløg + Krydderier
 * Tilsæt spinat og steg videre
 * Tilsæt i de sidste par minutter osten
 * Server med Ris
+
+* For ekstra luksus tilføj ristede Cashew nødder.
+
+# Historie
+
+Jeg kan ikke huske hvor jeg har denne opskrift fra. Selv om den er indisk af oprindelse foretrækker jeg den med Hulumni fremfor  Paneer ost.
 

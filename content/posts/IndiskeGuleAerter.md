@@ -1,8 +1,8 @@
 ﻿---
 title: "Indiske gule ærter"
-date: 2018-09-04T23:01:40+02:00
-draft: true
----
+date: 2018-09-08T12:20:00+02:00
+draft: false
+
 # Ingredienser:
 
 	400 g løg
@@ -33,4 +33,8 @@ draft: true
 * Smag til med salt og evt. en dråbe chilisauce.
 
 Topping: Æble i tern og ristet kokosmel.
+
+# Historie
+
+Jeg er ikke sikker på hvor jeg har denne opskrift fra, jeg mener det er en bog eller et blad. Den er en success herhjemme da den er både vegetarisk og glutenfri.
 
