@@ -1,19 +1,19 @@
 ﻿---
 title: "Ostefrikadeller"
-date: 2018-09-04T23:01:40+02:00
-draft: true
+date: 2018-09-09T10:50:00+02:00
+draft: false
 ---
 # Ingredienser:
 
 
-	2 kopper havregryn
+	2 kopper havregryn (glutenfri)
 	mælk
 	2 kopper reven cheddar ost
 	1 - 2 revne gulerødder
 	1 tsk paprika
 	2 - 3 spsk sesamfrø
 	2 æg
-	1 knivspids cayennepeber
+	Lidt chilipulver efter smag
 
 # Fremgangsmåde:
 
