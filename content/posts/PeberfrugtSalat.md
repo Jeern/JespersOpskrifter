@@ -19,3 +19,7 @@ draft: false
 * Efterfølgende lægges pebre i en frysepose i ca. 15 minutter
 * De er herefter stadig varme så pas på. 
 * Flå pebrene. Skær dem i strimler og anret i skål med hakket hvidløg, resterende olivenolie og salt.
+
+# Historie
+
+Jeg lærte denne opskrift af den italienske gourmet kok Carlo på et italiensk madlavningskursus. Tricket med fryseposen er den essentielle del, da det gør at pebrene bliver lige så nemme at flå som en tomat.
