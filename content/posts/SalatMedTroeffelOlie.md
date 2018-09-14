@@ -10,7 +10,7 @@ draft: false
 	Solsikkekerner, pinjekerner eller lignende
 	Grøn salat
 	En gulerod
-	Cheddarost (helst orange)
+	Cheddarost efter behag (helst orange)
 	En tomat
 	Agurk (helst lille kompakt)
 	En spsk. trøffelolie
@@ -21,5 +21,7 @@ draft: false
 * Pensl 2 skiver toastbrød med olivenolie. Rist. Skær i tern.
 * Solsikkekerner ristes på en tør pande.
 * Skær salaten i tynde strimler. 
-* Resten af grøntsagerne skæres i små stykker, og de blandes med trøffelolien. Kun kød fra tomat bruges.
+* Resten af grøntsagerne skæres i små stykker (skiver eller tern), og de blandes med trøffelolien. 
+	* Kun kød fra tomat bruges.
+* Osten skæres i tern og blandes i.
 * Tilsidst spredes brødstykkerne henover.
