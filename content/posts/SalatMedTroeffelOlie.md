@@ -1,11 +1,11 @@
 ﻿---
 title: "Salat med trøffelolie"
-date: 2018-09-04T23:01:40+02:00
-draft: true
+date: 2018-09-14T19:58:00+02:00
+draft: false
 ---
 # Ingredienser:
 
-	Toastbrød i tern 
+	Toastbrød i tern (Glutenfrit)
 	Olivenolie
 	Solsikkekerner, pinjekerner eller lignende
 	Grøn salat
