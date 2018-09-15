@@ -5,3 +5,11 @@ draft: true
 ---
 Her skal være lidt billeder og anmeldelser af glutenfri øl
 
+# Øl 1
+
+{{< stars 0 >}}
+{{< stars 1 >}}
+{{< stars 2 >}}
+{{< stars 3 >}}
+{{< stars 4 >}}
+{{< stars 5 >}}
