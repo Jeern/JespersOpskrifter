@@ -1,7 +1,7 @@
 ﻿---
 title: "Tomatsuppe (Papa al Pomodoro)"
-date: 2018-09-04T23:01:40+02:00
-draft: true
+date: 2018-09-15T12:27:00+02:00
+draft: false
 ---
 Original fra: [Spise med price - Papa al pomodoro] (http://www.dr.dk/Mad/opskrifter/spise-med-price/papa-al-pomodoro.htm)
  
