@@ -27,6 +27,7 @@ draft: false
 	Peber
 
 	Lasagneplader (glutenfri) + olie
+	Parmesan, Cheddar eller Mozzarella
 
 
 # Fremgangsmåde:
