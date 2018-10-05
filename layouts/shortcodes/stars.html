@@ -1,11 +1,11 @@
 {{ $starsn := add 1 (int (.Get 0)) }}
-{{ $nostarsn := sub 7 $starsn }}
-{{ $starsall := slice "\u2605" "\u2605" "\u2605" "\u2605" "\u2605" "\u2605" }}
-{{ $nostarsall := slice "\u2606" "\u2606" "\u2606" "\u2606" "\u2606" "\u2606" }}
+{{ $nostarsn := sub 12 $starsn }}
+{{ $starsall := slice "\u2605" "\u2605" "\u2605" "\u2605" "\u2605" "\u2605" "\u2605" "\u2605" "\u2605" "\u2605" "\u2605" }}
+{{ $nostarsall := slice "\u2606" "\u2606" "\u2606" "\u2606" "\u2606" "\u2606" "\u2606" "\u2606" "\u2606" "\u2606" "\u2606" }}
 {{ $stars := first $starsn $starsall }}
 {{ $nostars := first $nostarsn $nostarsall }}
 {{ $starsdelimited:= delimit $stars " " }}
 {{ $nostarsdelimited := delimit $nostars " " }}
 {{ $total := print $starsdelimited " " $nostarsdelimited }}
-{{ $trimmed := substr $total 2 9 }}
+{{ $trimmed := substr $total 2 19 }}
 <p>{{ $trimmed }}</p>

@@ -3,18 +3,39 @@ title: "Glutenfri ØL"
 date: 2018-09-04T23:01:40+02:00
 draft: true
 ---
-Her skal være lidt billeder og anmeldelser af glutenfri øl
+Her er små anmeldelser af Glutenfri øl.
 
-# Øl 1
+# Ørbæk Glutenfri Lager
+{{< stars 7 >}}
 
-{{< stars 0 >}}
-{{< stars 1 >}}
-{{< stars 2 >}}
-{{< stars 3 >}}
-{{< stars 4 >}}
-{{< stars 5 >}}
+Kan købes i: Superbrugsen
 
-Ørbæk Superbrugsen
-Willemose Kvickly
+![Ørbæk Glutenfri Lager](images/beer/OerbaekLager.jpg)
+![Ørbæk Glutenfri Lager](/images/beer/OerbaekLager.jpg)
+![Ørbæk Glutenfri Lager](./images/beer/OerbaekLager.jpg)
+![Ørbæk Glutenfri Lager](~/images/beer/OerbaekLager.jpg)
+![Ørbæk Glutenfri Lager](../images/beer/OerbaekLager.jpg)
+![Ørbæk Glutenfri Lager](static/images/beer/OerbaekLager.jpg)
+![Ørbæk Glutenfri Lager](/static/images/beer/OerbaekLager.jpg)
+![Ørbæk Glutenfri Lager](./static/images/beer/OerbaekLager.jpg)
+![Ørbæk Glutenfri Lager](~/static/images/beer/OerbaekLager.jpg)
+![Ørbæk Glutenfri Lager](../static/images/beer/OerbaekLager.jpg)
+
+God øl smag med langvarig eftersmag.
+
+# Daura Damm
+{{< stars 6 >}}
+
+Kan købes i: Føtex
+
+![Daura Damm](/images/beer/DauraDamm.jpg)
+
+Den klassiske glutenfri øl fra Spanien. God, men måske lidt kedelig når der nu efterhånden er et meget større udvalg derfor kun 6 stjerner.
+
+
+
+
+
+
+Willemoes Kvickly
 Daas Salling
-Estrella fdkfjdk Føtex, Salling
