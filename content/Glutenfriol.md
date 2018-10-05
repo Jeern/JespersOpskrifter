@@ -3,7 +3,7 @@ title: "Glutenfri ØL"
 date: 2018-10-05T20:35:40+02:00
 draft: false
 ---
-Her er små anmeldelser af Glutenfri øl.
+Her er små anmeldelser af Glutenfri øl - med en rating fra 1-10 stjerner.
 
 # Ørbæk Glutenfri Lagerøl
 {{< stars 7 >}}
