@@ -5,7 +5,7 @@ draft: false
 ---
 Her er små anmeldelser af Glutenfri øl.
 
-# Ørbæk Glutenfri Lager
+# Ørbæk Glutenfri Lagerøl
 {{< stars 7 >}}
 
 Kan købes i: Superbrugsen
