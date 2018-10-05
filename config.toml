@@ -3,7 +3,7 @@ baseURL = "https://www.jespersopskrifter.dk/"
 languageCode = "da-dk"
 title = "Jespers Opskrifter"
 theme = "one"
-googleAnalytics = ""
+googleAnalytics = "UA-127034730-1"
 
 pygmentsCodefences = true
 pygmentsCodefencesGuessSyntax = true
