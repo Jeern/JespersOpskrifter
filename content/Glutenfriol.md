@@ -11,15 +11,6 @@ Her er små anmeldelser af Glutenfri øl.
 Kan købes i: Superbrugsen
 
 ![Ørbæk Glutenfri Lager](images/beer/OerbaekLager.jpg)
-![Ørbæk Glutenfri Lager](/images/beer/OerbaekLager.jpg)
-![Ørbæk Glutenfri Lager](./images/beer/OerbaekLager.jpg)
-![Ørbæk Glutenfri Lager](~/images/beer/OerbaekLager.jpg)
-![Ørbæk Glutenfri Lager](../images/beer/OerbaekLager.jpg)
-![Ørbæk Glutenfri Lager](static/images/beer/OerbaekLager.jpg)
-![Ørbæk Glutenfri Lager](/static/images/beer/OerbaekLager.jpg)
-![Ørbæk Glutenfri Lager](./static/images/beer/OerbaekLager.jpg)
-![Ørbæk Glutenfri Lager](~/static/images/beer/OerbaekLager.jpg)
-![Ørbæk Glutenfri Lager](../static/images/beer/OerbaekLager.jpg)
 
 God øl smag med langvarig eftersmag.
 
@@ -28,7 +19,7 @@ God øl smag med langvarig eftersmag.
 
 Kan købes i: Føtex
 
-![Daura Damm](/images/beer/DauraDamm.jpg)
+![Daura Damm](images/beer/DauraDamm.jpg)
 
 Den klassiske glutenfri øl fra Spanien. God, men måske lidt kedelig når der nu efterhånden er et meget større udvalg derfor kun 6 stjerner.
 
