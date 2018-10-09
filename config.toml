@@ -8,6 +8,7 @@ googleAnalytics = "UA-127034730-1"
 pygmentsCodefences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsStyle = "pygments"
+enableRobotsTXT = true
 
 [params]
 navigation = ["About.md", "links.md", "Glutenfriol.md"]
