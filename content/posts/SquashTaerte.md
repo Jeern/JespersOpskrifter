@@ -1,7 +1,7 @@
 ﻿---
 title: "Squash tærte"
-date: 2018-10-29T13:00:00+02:00
-draft: true
+date: 2018-10-30T18:10:00+02:00
+draft: false
 ---
 # Ingredienser:
 
@@ -27,11 +27,11 @@ draft: true
 
 # Fremgangsmåde:
 
-Rør ingredienserne til dejen i en foodprocessor indtil den er forholdsvis fast. Ælt den derefter og lad den hvile i køleskab i en time.
+Rør ingredienserne til dejen i en foodprocessor indtil den er forholdsvis fast. Ælt den derefter og lad den hvile på køl i en time.
 
-Riv og/eller snit alle ingredienser til fyldet undtagen æg og parmesan. Steg på panden indtil det er mørt og væden fordampet. Lad det køle af, og rø derefter æg og revet parmesan i. Afkølingen skal ske for at æggene ikke koagulerer.
+Riv eller snit alle ingredienser til fyldet undtagen æg og parmesan. Steg på panden indtil det er mørt og væden fordampet. Lad det køle af, og rør derefter æg og revet parmesan i. Afkølingen skal ske for at æggene ikke koagulerer.
 
-For en tærteform med halvdelen af dejen. Lægget fyldet i og læg resten af dejen over som låg. Skær et kryds i så dampen kan slippe ud. Bag den i ovnen ved 200 grader i 35-40 minutter.
+For en tærteform med halvdelen af dejen. Put fyldet i og læg resten af dejen over som låg. Skær et kryds i så dampen kan slippe ud. Bag den i ovnen ved 200 grader i 35-40 minutter.
 
 # Historie
 
