@@ -21,7 +21,7 @@ Kan købes i: Hmm... Kan ikke huske hvor jeg købte den. Men det var et dansk su
 
 ![Omission Pale Ale](images/beer/OmissionPaleAle.jpg)
 
-God amerikansk pale ale, Fin let bitter humle smag.
+God amerikansk pale ale. Fin let bitter humle smag.
 
 # Daura Damm
 {{< stars 6 >}}
