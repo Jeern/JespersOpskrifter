@@ -14,6 +14,15 @@ Kan købes i: Superbrugsen
 
 God øl med langvarig eftersmag. Kan virke sæbeagtig i sjældne tilfælde.
 
+# Omission Pale Ale
+{{< stars 7 >}}
+
+Kan købes i: Hmm... Kan ikke huske hvor jeg købte den. Men det var et dansk supermarked. Måske Kvickly
+
+![Omission Pale Ale](images/beer/OmissionPaleAle.jpg)
+
+God amerikansk pale ale, Fin let bitter humle smag.
+
 # Daura Damm
 {{< stars 6 >}}
 
