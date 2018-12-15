@@ -5,6 +5,17 @@ draft: false
 ---
 Her er små anmeldelser af Glutenfri øl - med en rating fra 1-10 stjerner.
 
+# Svaneke - Glutenfri Julebryg
+{{< stars 8 >}}
+
+Kan købes i: Rema 1000, Meny
+
+![Svaneke Glutenfri Julebryg](images/beer/SvanekeGlutenfriJulebryg.jpg)
+
+Det er første gang jeg har set en mørk ale i alle de år jeg har haft cøliaki. Jeg troede efterhånden det
+var umuligt at lave. Men nej, Svaneke har gjort det ! En ekstra stjerne for det, og den er velsmagende ! Omend måske lidt tynd i smagen. Men det er ligemeget når man har været henvist til pilsner agtige øl i 7 år.
+Mine damer og herre - intet mindre end et mirakel.
+
 # Ørbæk Glutenfri Lagerøl
 {{< stars 7 >}}
 
