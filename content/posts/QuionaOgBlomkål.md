@@ -3,9 +3,8 @@ title: "Quiona & Blomkåls Curry"
 date: 2018-12-15T23:45:00+02:00
 draft: false
 ---
-# Ingredienser:
+# Ingredienser (ca. 3 personer):
 
-Ca. 3 personer
 	2 dl quinoa (1 del lys, 1 del mørk)
 	4 dl vand
 	1/2 blomkål
