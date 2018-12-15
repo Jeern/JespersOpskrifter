@@ -1,5 +1,5 @@
 ﻿---
-title: "Quiona / Blomkåls Curry"
+title: "Quiona & Blomkåls Curry"
 date: 2018-12-15T23:45:00+02:00
 draft: false
 ---
