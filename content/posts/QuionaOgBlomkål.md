@@ -1,6 +1,6 @@
 ﻿---
 title: "Quiona / Blomkåls Curry"
-date: 2018-15-12T23:45:00+02:00
+date: 2018-12-15T23:45:00+02:00
 draft: false
 ---
 # Ingredienser:
