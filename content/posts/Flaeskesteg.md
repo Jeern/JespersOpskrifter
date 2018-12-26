@@ -17,14 +17,14 @@ draft: false
 * Læg Flæskesteg i bradepande med svær nedad.
 * Dæk svær med vand. I ovn ½ time.
 * Tag stegen ud. Sørg for at svær er ordentlig ridset.
-* Vend stegen. Gnid salt imellem svær gerne fint. 
-* Sæt Laurbærblade imellem svær.
-* Tilbage i ovn ved 175 grader 45 minutter. Denne gang kun ovenvarme.
+* Vend stegen. Gnid salt imellem svær gerne fint salt. 
+* Sæt laurbærblade imellem svær.
+* Tilbage i ovn ved 175 grader 45 minutter. 
 * Hæld øl over svær.
-* Tilbage i ovn. Stadig kun ovenvarme. Denne gang 1 time. Hvis 1½ kg 45 minutter, hvis 3 kg. 1t og 15 minutter. Ekstra 15 minutter hvis meget tyk steg.
+* Tilbage i ovn. Denne gang 1 time. Hvis 1½ kg kun 45 minutter, hvis 3 kg. 1t og 15 minutter. Ekstra 15 minutter hvis meget tyk steg.
 * Hæld sky fra.
 * Tilbage i ovn. Denne gang midterste rille, max. temperatur, varmluft. ca. 15 minutter.
-* Til sidst øverste rille, på grill ca. 1-10 minutter. Afhængig af grill styrken. 5 minutter på vores ovn.
+* Sværen bør være sprød nu. Hvis ikke, så tilbage på øverste rille, sæt ovnen på grill ca. 1-5 minutter. Afhængig af grill styrken. Pas på sværen ikke bliver sort.
 
 # Historie
 
