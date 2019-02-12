@@ -28,7 +28,7 @@ God øl med langvarig eftersmag. Kan virke sæbeagtig i sjældne tilfælde.
 # Omission Pale Ale
 {{< stars 7 >}}
 
-Kan købes i: Hmm... Kan ikke huske hvor jeg købte den. Men det var et dansk supermarked. Måske Kvickly
+Kan købes i: Meny
 
 ![Omission Pale Ale](images/beer/OmissionPaleAle.jpg)
 
@@ -37,7 +37,7 @@ God amerikansk pale ale. Fin let bitter humle smag.
 # Daura Damm
 {{< stars 6 >}}
 
-Kan købes i: Føtex
+Kan købes i: Føtex, Meny
 
 ![Daura Damm](images/beer/DauraDamm.jpg)
 
