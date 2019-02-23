@@ -16,6 +16,15 @@ Det er første gang jeg har set en mørk ale i alle de år jeg har haft cøliaki
 var umuligt at lave. Men nej, Svaneke har gjort det ! En ekstra stjerne for det, og den er velsmagende ! Omend måske lidt tynd i smagen. Men det er ligemeget når man har været henvist til pilsner agtige øl i 7 år.
 Mine damer og herre - intet mindre end et mirakel.
 
+# Willemoes Glutenfri Lager
+{{< stars 8 >}}
+
+Kan købes i: Superbrugsen
+
+![Willemoes Glutenfri Lager](images/beer/WillemoesLager.jpg)
+
+Dejlig pilsner med god eftersmag. 
+
 # Ørbæk Glutenfri Lagerøl
 {{< stars 7 >}}
 
