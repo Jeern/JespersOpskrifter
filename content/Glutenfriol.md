@@ -25,6 +25,13 @@ Kan købes i: Superbrugsen
 
 Dejlig pilsner med god eftersmag. 
 
+# San Miguel Gluten Free
+{{< stars 8 >}}
+
+Kan købes i: Meny
+
+![San Miguel Gluten Free](images/beer/SanMiguel.jpg)
+
 # Ørbæk Glutenfri Lagerøl
 {{< stars 7 >}}
 
