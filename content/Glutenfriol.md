@@ -5,6 +5,26 @@ draft: false
 ---
 Her er små anmeldelser af Glutenfri øl - med en rating fra 1-10 stjerner.
 
+*Disclaimer*: Øllene er glutenfri i dansk lovmæssig forstand dvs. < 20 ppm.
+Altså ikke nødvendigvis 100% glutenfri, men nok til at de må bære mærkatet.
+
+Jeg fandt iøvrigt denne interessante artikel om at alle øl kan gøres glutenfri ved tilsætning af et enzym der nedbryder gluten:
+<http://www.ale.dk/nyhed/artikel/er-glutenfri-oel-et-nyt-oeleventyr/> artiklen indeholder dette link til enzymet som skal bruges under 
+brygningen: <https://www.brygladen.com/brewers-clarex.html>.
+
+Her følger anmeldelelserne sorteret fra bedst til værst.
+
+
+# Svaneke - Glutenfri American Hoppy Ale
+{{< stars 9 >}}
+
+Kan købes i: Aldi
+
+![Svaneke Glutenfri American Hoppy Ale](images/beer/SvanekeHoppyAle.jpg)
+
+Mums. Frugtig humle, Citrus toner, laaang eftersmag. Jeg kan ikke sige nok positivt om denne smukke næsten orange øl.
+Perfekt til en god påskefrokost.
+
 # Svaneke - Glutenfri Julebryg
 {{< stars 8 >}}
 
