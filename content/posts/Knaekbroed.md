@@ -1,5 +1,5 @@
 ﻿---
-title: "Glutenfrit Knækbrød"
+title: "Knækbrød (Glutenfrit)"
 date: 2018-09-08T20:51:00+02:00
 draft: false
 ---
