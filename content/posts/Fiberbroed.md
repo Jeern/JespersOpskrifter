@@ -28,7 +28,7 @@ draft: false
 * Tilsæt de våde ingredienser under omrøring (med røremaskine - skal være grundigt omrørt)
 * Pensl en form og tilsæt dejen
 * Drys med flere kerner
-* Sæt ovnen på 180 grader og midterste rille.
+* Sæt ovnen ned på 180 grader og midterste rille (bagningen starter derfor varmt men køler langsomt).
 * Bag i 75 minutter
 
 
