@@ -18,7 +18,7 @@ Her følger anmeldelelserne sorteret fra bedst til værst.
 # Svaneke - Glutenfri American Hoppy Ale
 {{< stars 9 >}}
 
-Kan købes i: Aldi
+Købt i: Aldi
 
 ![Svaneke Glutenfri American Hoppy Ale](images/beer/SvanekeHoppyAle.jpg)
 
@@ -28,7 +28,7 @@ Perfekt til en god påskefrokost.
 # Svaneke - Glutenfri Julebryg
 {{< stars 8 >}}
 
-Kan købes i: Rema 1000, Meny
+Købt i: Rema 1000, Meny
 
 ![Svaneke Glutenfri Julebryg](images/beer/SvanekeGlutenfriJulebryg.jpg)
 
@@ -39,7 +39,7 @@ Mine damer og herre - intet mindre end et mirakel.
 # Willemoes Glutenfri Lager
 {{< stars 8 >}}
 
-Kan købes i: Superbrugsen
+Købt i: Superbrugsen
 
 ![Willemoes Glutenfri Lager](images/beer/WillemoesLager.jpg)
 
@@ -48,14 +48,14 @@ Dejlig pilsner med god eftersmag.
 # San Miguel Gluten Free
 {{< stars 8 >}}
 
-Kan købes i: Meny
+Købt i: Meny
 
 ![San Miguel Gluten Free](images/beer/SanMiguel.jpg)
 
 # Ørbæk Glutenfri Lagerøl
 {{< stars 7 >}}
 
-Kan købes i: Superbrugsen
+Købt i: Superbrugsen
 
 ![Ørbæk Glutenfri Lager](images/beer/OerbaekLager.jpg)
 
@@ -64,16 +64,23 @@ God øl med langvarig eftersmag. Kan virke sæbeagtig i sjældne tilfælde.
 # Omission Pale Ale
 {{< stars 7 >}}
 
-Kan købes i: Meny
+Købt i: Meny
 
 ![Omission Pale Ale](images/beer/OmissionPaleAle.jpg)
 
 God amerikansk pale ale. Fin let bitter humle smag.
 
+# Svaneke Aloha Pilsner
+{{< stars 6 >}}
+
+Købt i: Aldi
+
+![Svaneke Aloha Pilsner](images/beer/SvanekeAlohaPilsner.jpg)
+
 # Daura Damm
 {{< stars 6 >}}
 
-Kan købes i: Føtex, Meny
+Købt i: Føtex, Meny
 
 ![Daura Damm](images/beer/DauraDamm.jpg)
 
