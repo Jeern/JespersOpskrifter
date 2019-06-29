@@ -6,11 +6,13 @@ draft: false
 # Ingredienser:
 
 	Dej:
-	250g Jyttemel (som er glutenfri)
+	50g Tapiokastivelse
+	150g Boghvedemel
+	150g Rismel
 	salt
-	1 æg
-	6 spsk olivenolie
-	6 spsk vand
+	2 æg
+	7-8 spsk olivenolie
+	7-8 spsk vand
 
 	Fyld:
 	2 porrer
@@ -27,7 +29,7 @@ draft: false
 
 # Fremgangsmåde:
 
-Rør ingredienserne til dejen i en foodprocessor indtil den er forholdsvis fast. Ælt den derefter og lad den hvile på køl i en time.
+Rør ingredienserne til dejen i en foodprocessor indtil den er forholdsvis fast. Ælt den derefter til den er som marcipan og lad den hvile på køl i en time.
 
 Riv eller snit alle ingredienser til fyldet undtagen æg og parmesan. Steg på panden indtil det er mørt og væden fordampet. Lad det køle af, og rør derefter æg og revet parmesan i. Afkølingen skal ske for at æggene ikke koagulerer.
 
