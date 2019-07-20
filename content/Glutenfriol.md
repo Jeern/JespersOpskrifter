@@ -52,6 +52,22 @@ Købt i: Meny
 
 ![San Miguel Gluten Free](images/beer/SanMiguel.jpg)
 
+# Mongozo Buckwheat white beer
+{{< stars 8 >}}
+
+Købt i: Salling Super
+
+Jeg havde ikke store forventninger til en boghvede øl, men virkelig god. Karakteren vaklede imellem 7 og 8, så jeg gik med 8 pga. mine lave forventninger.
+
+![Mongozo Buckwheat](images/beer/MongozoBuckwheat.jpg)
+
+# Brunehaut Belgian Ale
+{{< stars 7 >}}
+
+Købt i: Salling Super
+
+![Brunehaut Belgian Ale](images/beer/Brunehaut.jpg)
+
 # Ørbæk Glutenfri Lagerøl
 {{< stars 7 >}}
 
