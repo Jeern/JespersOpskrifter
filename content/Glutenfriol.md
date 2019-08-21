@@ -45,6 +45,15 @@ Købt i: Superbrugsen
 
 Dejlig pilsner med god eftersmag. 
 
+# Brunehaut Belgian Ale (Blå)
+{{< stars 8 >}}
+
+Købt i: Salling Super
+
+![Brunehaut Belgian Ale Blue](images/beer/BrunehautBlue.jpg)
+
+Dejlig pilsner med god eftersmag. 
+
 # San Miguel Gluten Free
 {{< stars 8 >}}
 
@@ -61,12 +70,12 @@ Jeg havde ikke store forventninger til en boghvede øl, men virkelig god. Karakt
 
 ![Mongozo Buckwheat](images/beer/MongozoBuckwheat.jpg)
 
-# Brunehaut Belgian Ale
+# Brunehaut Belgian Ale (Amber)
 {{< stars 7 >}}
 
 Købt i: Salling Super
 
-![Brunehaut Belgian Ale](images/beer/Brunehaut.jpg)
+![Brunehaut Belgian Ale Amber](images/beer/Brunehaut.jpg)
 
 # Ørbæk Glutenfri Lagerøl
 {{< stars 7 >}}
@@ -101,3 +110,19 @@ Købt i: Føtex, Meny
 ![Daura Damm](images/beer/DauraDamm.jpg)
 
 Den klassiske glutenfri øl fra Spanien. God, men måske lidt kedelig når der nu efterhånden er et meget større udvalg derfor kun 6 stjerner.
+
+# Mongozo Pilsener
+Ikke rated endnu
+
+Købt i: Salling Super
+
+![Mongozo Pilsener](images/beer/MongozoPilsener.jpg)
+
+# Brewdog Vagabond
+Ikke rated endnu
+
+Købt i: Bilka
+
+![Brewdog Vagabond](images/beer/BrewDogVagabond.jpg)
+
+American Pale Ale
