@@ -52,7 +52,7 @@ Købt i: Salling Super
 
 ![Brunehaut Belgian Ale Blue](images/beer/BrunehautBlue.jpg)
 
-Dejlig pilsner med god eftersmag. 
+Sommerfrisk Ale, omend den er bedre (og en ale) minder den lidt om Ørbæk glutenfri lager.
 
 # San Miguel Gluten Free
 {{< stars 8 >}}

@@ -7,7 +7,7 @@ draft: false
 
 	1 dl Boghvedemel
 	1 dl Rismel
-	1 1/4 dl Tapiokastivelse
+	5/4 dl Tapiokastivelse
 	1 dl hørfrø
 	1 dl græskarkerner
 	1 dl Solsikkekerner
