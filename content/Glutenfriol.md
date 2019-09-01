@@ -102,6 +102,13 @@ Købt i: Aldi
 
 ![Svaneke Aloha Pilsner](images/beer/SvanekeAlohaPilsner.jpg)
 
+# Daas Blond
+{{< stars 6 >}}
+
+Købt i: Salling Super
+
+![Daas Blond](images/beer/DaasBlonde.jpg)
+
 # Daura Damm
 {{< stars 6 >}}
 

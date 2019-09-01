@@ -8,3 +8,5 @@ Her har jeg samlet links til opskrifter som jeg har nydt, men ikke har lagt ind 
 * [Kartoffelsalat med grønne asparges](https://www.alt.dk/mad/opskrift/salat-med-nye-kartofler-og-gronne-asparges)
 * <https://www.bloglovin.com/blogs/lykke-mad-gluten-laktose-og-aegge-fri-11900223/verdens-bedste-glutenfrie-brod-grydebrodet-2584308361>
 * <https://livsbobler.dk/glutenfri-boller-paa-en-time/>
+* <https://www.valdemarsro.dk/falafler/>
+* <https://www.karinabaagoe.dk/laekre-glutenfri-pitabroed/>
