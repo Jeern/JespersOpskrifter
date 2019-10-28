@@ -61,6 +61,15 @@ Købt i: Meny
 
 ![San Miguel Gluten Free](images/beer/SanMiguel.jpg)
 
+# Brewdog Vagabond
+{{< stars 8 >}}
+
+Købt i: Bilka
+
+![Brewdog Vagabond](images/beer/BrewDogVagabond.jpg)
+
+American Pale Ale - bitter som den skal være. 
+
 # Mongozo Buckwheat white beer
 {{< stars 8 >}}
 
@@ -125,11 +134,3 @@ Købt i: Salling Super
 
 ![Mongozo Pilsener](images/beer/MongozoPilsener.jpg)
 
-# Brewdog Vagabond
-Ikke rated endnu
-
-Købt i: Bilka
-
-![Brewdog Vagabond](images/beer/BrewDogVagabond.jpg)
-
-American Pale Ale
