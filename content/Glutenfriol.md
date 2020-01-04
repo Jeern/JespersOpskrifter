@@ -104,6 +104,13 @@ Købt i: Meny
 
 God amerikansk pale ale. Fin let bitter humle smag.
 
+# Mongozo Pilsener
+{{< stars 6 >}}
+
+Købt i: Salling Super
+
+![Mongozo Pilsener](images/beer/MongozoPilsener.jpg)
+
 # Svaneke Aloha Pilsner
 {{< stars 6 >}}
 
@@ -127,10 +134,5 @@ Købt i: Føtex, Meny
 
 Den klassiske glutenfri øl fra Spanien. God, men måske lidt kedelig når der nu efterhånden er et meget større udvalg derfor kun 6 stjerner.
 
-# Mongozo Pilsener
-Ikke rated endnu
 
-Købt i: Salling Super
-
-![Mongozo Pilsener](images/beer/MongozoPilsener.jpg)
 
