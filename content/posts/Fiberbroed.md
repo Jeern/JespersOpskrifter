@@ -8,13 +8,13 @@ draft: false
 	1 dl Boghvedemel
 	1 dl Rismel
 	5/4 dl Tapiokastivelse
-	1 dl hørfrø
-	1 dl græskarkerner
-	1 dl Solsikkekerner
 	1/2 dl Pofiber
 	1/2 dl psyllium frøskaller
 	1 spsk natron
 	2 tsk salt
+	1 dl hørfrø
+	1 dl græskarkerner
+	1 dl Solsikkekerner
 	
 	6 dl tykmælk
 	1/4 dl sirup
