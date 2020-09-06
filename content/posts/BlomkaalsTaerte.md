@@ -31,14 +31,16 @@ draft: false
 
 Rør ingredienserne til dejen i en foodprocessor indtil den er forholdsvis fast. Ælt den derefter til den er som marcipan og lad den hvile på køl i en time.
 
-* Riv eller snit alle ingredienser til fyldet undtagen æg og ost. 
-* Kog blomkålen i buketter i 5 minutter. 
-* Steg det hakkede løg på panden. 
-* Si vandet fra blomkålen og kog blomkål, løg, madlavningsfløde og krydderier op til en sauce. 
-* Lad derefter det hele køle af. 
-* Når det er koldt røres æg og revet cheddar i. Afkølingen skal ske for at æggene ikke koagulerer.
-
-Fór en tærteform med halvdelen af dejen. Put fyldet i og læg resten af dejen over som låg. Skær et kryds i så dampen kan slippe ud. Bag den i ovnen ved 200 grader i 35-40 minutter.
+1. Riv eller snit alle ingredienser til fyldet undtagen æg og ost. 
+1. Kog blomkålen i buketter i 5 minutter. 
+1. Steg det hakkede løg på panden. 
+1. Si vandet fra blomkålen og kog blomkål, løg, madlavningsfløde og krydderier op til en sauce. 
+1. Lad derefter det hele køle af. 
+1. Når det er koldt røres æg og revet cheddar i. Afkølingen skal ske for at æggene ikke koagulerer.
+1. Fór en tærteform med halvdelen af dejen. 
+1. Put fyldet i og læg resten af dejen over som låg. 
+1. Skær et kryds i så dampen kan slippe ud. 
+1. Bag den i ovnen ved 200 grader i 35-40 minutter.
 
 # Historie
 
