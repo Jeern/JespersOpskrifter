@@ -7,8 +7,8 @@ draft: false
 
 	Dej:
 	50g Tapiokastivelse
-	150g Boghvedemel
-	150g Rismel
+	200g Boghvedemel
+	200g Rismel
 	salt
 	2 æg
 	7-8 spsk olivenolie
@@ -33,7 +33,7 @@ Rør ingredienserne til dejen i en foodprocessor indtil den er forholdsvis fast.
 
 Riv eller snit alle ingredienser til fyldet undtagen æg og parmesan. Steg på panden indtil det er mørt og væden fordampet. Lad det køle af, og rør derefter æg og revet parmesan i. Afkølingen skal ske for at æggene ikke koagulerer.
 
-For en tærteform med halvdelen af dejen. Put fyldet i og læg resten af dejen over som låg. Skær et kryds i så dampen kan slippe ud. Bag den i ovnen ved 200 grader i 35-40 minutter.
+Fór en tærteform med halvdelen af dejen. Put fyldet i og læg resten af dejen over som låg. Skær et kryds i så dampen kan slippe ud. Bag den i ovnen ved 200 grader i 35-40 minutter.
 
 # Historie
 
