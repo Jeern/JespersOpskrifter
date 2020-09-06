@@ -42,4 +42,4 @@ Fór en tærteform med halvdelen af dejen. Put fyldet i og læg resten af dejen 
 
 # Historie
 
-Denne tærte er inspireret af en engelsk cauliflower pie, men tilberedt mere i stil med [squash tærten](SquashTaerte.md).
+Denne tærte er inspireret af en engelsk cauliflower pie, men tilberedt mere i stil med [squash tærten](../SquashTaerte.md).
