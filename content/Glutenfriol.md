@@ -18,7 +18,7 @@ Her følger anmeldelelserne sorteret fra bedst til værst.
 # Svaneke - Glutenfri American Hoppy Ale
 {{< stars 9 >}}
 
-Købt i: Aldi
+Købt i: Aldi, Meny
 
 ![Svaneke Glutenfri American Hoppy Ale](images/beer/SvanekeHoppyAle.jpg)
 
