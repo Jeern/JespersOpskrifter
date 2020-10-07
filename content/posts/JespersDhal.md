@@ -36,3 +36,7 @@ draft: false
 # Historie
 
 Jeg ved ikke om denne ret egentlig kan kaldes en Dhal, jeg lavede den bare af tilfældige ingredienser og opdagede først bagefter at jeg havde kreeret en fantastisk velsmagende Dhal :) Det vigtigste element i retten er citrus smagen fra den gule chili.
+
+Retten kan varieres i det uendelige efter smag og hvad man har. Yderligere krydderier f.eks spidskommen, ingefær, kanel. Kikærter istedet for vege kødboller. Grønne linser udover de røde linser, løg istedet for forårsløg etc.
+
+Det er en af de retter der smager endnu bedre som en rest fra fryseren.
