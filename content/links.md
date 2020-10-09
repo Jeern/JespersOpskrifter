@@ -12,4 +12,4 @@ Her har jeg samlet links til opskrifter som jeg har nydt, men ikke har lagt ind 
 * <https://www.valdemarsro.dk/falafler/>
 * <https://www.karinabaagoe.dk/laekre-glutenfri-pitabroed/>
 * <https://www.gastrofun.dk/opskrift/glutenfri-boller>
-
+* <https://www.dr.dk/mad/opskrift/lun-salat-med-andeconfit>
