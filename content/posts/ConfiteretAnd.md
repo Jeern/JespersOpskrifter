@@ -18,8 +18,9 @@ Dressing:
 5 spsk vindruekerolie
 1 spsk hvid balsamico
 1 spsk stærk sennep
-1 salt
-1 peber
+1/2 tsk salt
+1/2 tsk peber
+1/2 tsk sukker
 ```
 
 # Fremgangsmåde:
