@@ -14,7 +14,7 @@ Kerner fra 1/2 granatæble (evt. købt pillet hvis man er doven)
 2-3 små kartofler pr. mand
 
 Dressing:
-2 Fed hvidløg
+2 fed hvidløg
 5 spsk vindruekerolie
 1 spsk hvid balsamico
 1 spsk stærk sennep
