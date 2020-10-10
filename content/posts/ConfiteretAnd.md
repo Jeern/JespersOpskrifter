@@ -5,6 +5,7 @@ draft: false
 ---
 # Ingredienser:
 
+```
 1 dåse confiteret and (f.eks fra dåse - kan købes i alm. supermarkeder)
 2 stk. hjertesalat
 Kerner fra 1/2 granatæble (evt. købt pillet hvis man er doven)
@@ -19,6 +20,7 @@ Dressing:
 1 spsk stærk sennep
 1 salt
 1 peber
+```
 
 # Fremgangsmåde:
 
