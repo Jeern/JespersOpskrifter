@@ -13,7 +13,7 @@ draft: false
 	1 Rød chili - styrke efter personlig smag
 	1 Rød sød peberfrugt	
 	6 forårsløg
-	\* Feta ost.
+	* Feta ost.
 
 ## Dressing
 
