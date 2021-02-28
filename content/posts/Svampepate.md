@@ -29,7 +29,7 @@ Champignon vaskes og skæres i tynde skiver og steger nu med indtil de er
 let brunede. Krydres med salt og peber.
 Panden tages af og der iblandes reven gulerod, pesto, reven ost og rasp.
 Nu skal de 2 æg røres i. Her er det vigtigt at massen ikke er så varm at æggene stivner.
-Nu skal massen i et ildfast fad, overdrysses med sesamfrø og sættes i ovnen.
+Nu skal massen i et smurt ildfast fad, overdrysses med sesamfrø og sættes i ovnen.
 Klar efter 45 minutter ved 180 grader.
 
 # Historie
