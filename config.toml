@@ -9,6 +9,7 @@ pygmentsCodefences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsStyle = "pygments"
 enableRobotsTXT = true
+enableEmoji = true
 
 [params]
 navigation = ["About.md", "links.md", "Glutenfriol.md"]
