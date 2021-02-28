@@ -1,5 +1,5 @@
 ﻿---
-title: "Svampepate (ca. 4 personer)"
+title: "Svampepaté (ca. 4 personer)"
 date: 2021-02-28T22:43:00+02:00
 draft: false
 ---
@@ -36,4 +36,4 @@ Klar efter 45 minutter ved 180 grader.
 
 Fantastisk velsmagende opskrift fra "Kogebog for fattigrøve" af Rolf Lund - med ganske få modifikationer. 
 F.eks har jeg fjernet bacon som virker helt unødvendigt her og som også gør at det nu faktisk ER en vegetarret
-og ikke hvad Rolf Lund forstår som en vegetarret ;)
+og ikke hvad Rolf Lund forstår som en vegetarret :smirk:
