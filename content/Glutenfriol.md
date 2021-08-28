@@ -111,6 +111,16 @@ Købt i: Meny
 
 God amerikansk pale ale. Fin let bitter humle smag.
 
+# Snuble Juice
+{{< stars 7 >}}
+
+Købt i: Føtex
+
+![Snuble Juice](images/beer/SnubleJuice.jpg)
+
+Hvis Pale ales skal være bitre i smagen falder denne igennem. Den smager dejligt men er ekstremt frugtig, næsten sød. 
+På ingen måde bitter.
+
 # Mongozo Pilsener
 {{< stars 6 >}}
 
