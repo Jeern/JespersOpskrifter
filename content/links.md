@@ -17,5 +17,6 @@ Og her et par stykker jeg lige skal have kigget på men ikke har smagt
 * <https://livsbobler.dk/glutenfri-boller-paa-en-time/>
 * <https://www.valdemarsro.dk/massaman-curry/>
 * <https://www.thespruceeats.com/basic-miso-soup-3377886>
+* <https://chilihouse.dk/2021/07/21/cheddarmuffins-med-jalapenos/>
 
 
