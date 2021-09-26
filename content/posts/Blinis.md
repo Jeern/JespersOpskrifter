@@ -22,7 +22,8 @@ draft: false
 # Fremgangsmåde:
 
 Del æg i hvide og blomme. Pisk hviden stiv evt. med en dråbe hvidvinsedikke. Pisk eller rør alle de andre ingredienser.
-Vend tilsidst den stive æggehvide i. Lad hvile i en 1/2 - 1 time på køkkenbordet. 
+Vend tilsidst den stive æggehvide i. Lad hvile i en 30 minutter på køkkenbordet. Eller i køleskabet hvis de ikke skal laves
+med det samme.
 
 Steg herefter de lækre Blinis på panden i lidt smør. Jeg synes det er lækrest hvis de er 10-15 cm i diameter.
 
