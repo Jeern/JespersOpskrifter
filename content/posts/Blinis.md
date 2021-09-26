@@ -33,6 +33,8 @@ Hvis det skal være mere festligt kan man selvføgelig anrette det.
 I den viste topping skærer jeg det røgede laks fint og blander det med hytteost og evt. lidt peber.
 I denne ret foretrækker jeg tynde lakseskiver ligesom dem til Gravad laks. Purløg drysses over tilsidst.
 
+Skift laks ud med avocado + salt for en ren vegetarisk oplevelse.
+
 # Historie
 
 Let modificeret opskrift fra Meyers Glutenfrie bagebog. Topping er min egen.
