@@ -39,7 +39,7 @@ Mine damer og herre - intet mindre end et mirakel.
 # Ørbæk Dry Hopped American Lager
 {{< stars 8 >}}
 
-Købt i: Superbrugsen, Menu
+Købt i: Superbrugsen, Meny
 
 ![Ørbæk Dry Hopped American Lager](images/beer/OerbaekDryHoppedLager.jpg)
 
