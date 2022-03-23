@@ -6,7 +6,7 @@ draft: false
 # Ingredienser:
 
 
-	[Knækbrød](../knaekbroed)
+	Knækbrød
 	Grønkål
 	1-2 Rødløg
 	Flydende røgaroma (fåes f.eks i Føtex)
@@ -29,7 +29,7 @@ Smages til m. salt.
 Smages til m. sukker (meget lidt) og salt.
 * Begge portioner sættes på køl.
 * Grønkål og rødløg blendes fint og røres sammen med den afkølede portion 2.
-* Knækbrød knækkes i passende hapsere (f.eks 5 x 5 cm)
+* [Knækbrød](../knaekbroed) knækkes i passende hapsere (f.eks 5 x 5 cm)
 * De 2 typer humus anrettes på hver haps - f.eks 2 kugler af 2 x 2 cm
 * Æblet skæres i meget tynde skiver og 1/2 skive placeres på hver haps.
 
