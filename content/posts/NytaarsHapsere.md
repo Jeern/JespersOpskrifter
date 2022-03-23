@@ -6,7 +6,7 @@ draft: false
 # Ingredienser:
 
 
-	[Knækbrød](../Knaekbroed)
+	[Knækbrød](../knaekbroed)
 	Grønkål
 	1-2 Rødløg
 	Flydende røgaroma (fåes f.eks i Føtex)
