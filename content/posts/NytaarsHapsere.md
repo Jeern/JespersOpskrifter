@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Nytårshapsere (veganske)"
-date: 2022-01-29T12:50:00+02:00
-draft: true
+date: 2022-03-23T12:50:00+02:00
+draft: false
 ---
 # Ingredienser:
 
@@ -37,4 +37,4 @@ Smages til m. sukker (meget lidt) og salt.
 # Historie
 
 De oprindelige hapsere var ikke veganske men indeholdt rygeost og cremefraiche i stedet for de 2 humus varianter. 
-Det kan man selvfølgelig også gøre.
+Det kan man selvfølgelig også gøre.                                                                                        
