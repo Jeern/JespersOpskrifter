@@ -8,7 +8,7 @@ draft: false
 	Dej:
 	300g Masa Harina (blå eller gul)
 	2 tsk salt
-	330g/390g\* varmt vand (f.eks 1/3 kold og 2/3 nykogt)
+	330g/390g ( \*) varmt vand (f.eks 1/3 kold og 2/3 nykogt)
 
 
 # Fremgangsmåde:
