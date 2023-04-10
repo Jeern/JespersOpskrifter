@@ -8,10 +8,12 @@ draft: false
 	Dej:
 	300g Masa Harina (blå eller gul)
 	2 tsk salt
-	330g varmt vand (f.eks 1/3 kold og 2/3 nykogt)
+	330g/390g\* varmt vand (f.eks 1/3 kold og 2/3 nykogt)
 
 
 # Fremgangsmåde:
+
+\*  330g til blåt mel og 390g til gult.
 
 Ælt dejen til den bliver som en marcipan agtig klump. Lad hvile i 30 minutter på køkkenbordet.
 
