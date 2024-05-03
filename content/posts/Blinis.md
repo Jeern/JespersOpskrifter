@@ -10,7 +10,7 @@ draft: false
 	2 tsk salt
 	1 tsk bagepulver
 	2 Æg
-	350g Kærnemælk
+	400g Kærnemælk
 	Smør til stegning
 
 	Eksempel på Topping:
