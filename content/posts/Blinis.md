@@ -21,7 +21,7 @@ draft: false
 
 # Fremgangsmåde:
 
-Del æg i hvide og blomme. Pisk hviden stiv evt. med en dråbe hvidvinsedikke. Pisk eller rør alle de andre ingredienser.
+Del æg i hvide og blomme. Pisk hviden stiv, evt. med en dråbe hvidvinsedikke. Pisk eller rør alle de andre ingredienser.
 Vend tilsidst den stive æggehvide i. Lad hvile i en 30 minutter på køkkenbordet. Eller i køleskabet hvis de ikke skal laves
 med det samme.
 

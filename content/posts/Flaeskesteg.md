@@ -17,7 +17,7 @@ draft: false
 * Læg Flæskesteg i bradepande med svær nedad.
 * Dæk svær med vand. I ovn ½ time.
 * Tag stegen ud. Sørg for at svær er ordentlig ridset.
-* Vend stegen. Gnid salt imellem svær gerne fint salt. 
+* Vend stegen. Gnid rigeligt salt imellem svær gerne fint salt. 
 * Sæt laurbærblade imellem svær.
 * Tilbage i ovn ved 175 grader 45 minutter. 
 * Hæld øl over svær.

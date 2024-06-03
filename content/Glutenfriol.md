@@ -15,7 +15,7 @@ brygningen: <https://www.brygladen.com/brewers-clarex.html>.
 Her følger anmeldelelserne sorteret fra bedst til værst.
 
 
-# Svaneke - Glutenfri American Hoppy Ale
+# Svaneke - Glutenfri American Hoppy Ale (Økologisk)
 {{< stars 9 >}}
 
 Købt i: Aldi, Meny
@@ -24,6 +24,10 @@ Købt i: Aldi, Meny
 
 Mums. Frugtig humle, Citrus toner, laaang eftersmag. Jeg kan ikke sige nok positivt om denne smukke næsten orange øl.
 Perfekt til en god påskefrokost.
+
+Samme øl, ny etikette:
+
+![Svaneke Glutenfri American Hoppy Ale 2](images/beer/SvanekeAmericanHoppyAle.jpg)
 
 # Svaneke - Glutenfri Julebryg
 {{< stars 8 >}}
