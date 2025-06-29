@@ -22,6 +22,8 @@ draft: false
 
 # Fremgangsmåde:
 
+* WTF: [Tortillas](../tortillas)
+* WTF2: [squash tærten](../squashtaerte)
 * Skær løg i tern og og pres hvidløg. 
 * Steg det på panden med tomat koncentrat og Chipotle pasta
 * Hæld væden fra bønnerne og steg dem med.
