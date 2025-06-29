@@ -5,7 +5,7 @@ draft: false
 ---
 # Ingredienser:
 
-	12 [Tortillas](../tortillas).
+	12 Tortillas *
 	1 Dåse sorte bønner (el. kog tilsvarende mængde selv)
 	1 tsk salt
 	4 fed hvidløg
@@ -22,8 +22,6 @@ draft: false
 
 # Fremgangsmåde:
 
-* WTF: [Tortillas](../tortillas)
-* WTF2: [squash tærten](../squashtaerte)
 * Skær løg i tern og og pres hvidløg. 
 * Steg det på panden med tomat koncentrat og Chipotle pasta
 * Hæld væden fra bønnerne og steg dem med.
@@ -34,3 +32,5 @@ draft: false
 * Luk evt. tortillaen med pisket æg (eller undlad hvis det skal være vegansk)
 * Pensl. rullerne med olie og giv dem 20 minutter ved 200 grader varmluft i ovn eller airfryer
 * Kan serveres med f.eks Guacamole. Hver rulle kan deles i 2 hvis man synes det er lækrere.
+
+\* Opskrift på [Tortillas](../tortillas).
