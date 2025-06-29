@@ -5,7 +5,7 @@ draft: false
 ---
 # Ingredienser:
 
-	12 [Tortillas](../Tortillas) 
+	12 [Tortillas](../tortillas).
 	1 Dåse sorte bønner (el. kog tilsvarende mængde selv)
 	1 tsk salt
 	4 fed hvidløg
